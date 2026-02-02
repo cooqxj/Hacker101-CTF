@@ -18,6 +18,7 @@ Welcome to my Hacker101 CTF repository. This project contains various automation
 | Challenge (문제) | Category (분류) | Script (스크립트) |
 | :--- | :--- | :--- |
 | **Micro-CMS v2** | SQL Injection | [Link](./Micro-CMS-v2/micro-cms-v2-exploit.py) |
+| **Photo Gallery** | SQL Injection | [Link](./Photo%20Gallery/photo-gallery-exploit.py) |
 | (Coming Soon) | - | - |
 
 ## ⚠️ Disclaimer (주의 사항)
