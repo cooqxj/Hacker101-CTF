@@ -8,7 +8,7 @@ Welcome to my Hacker101 CTF repository. This project contains various automation
 
 ## 🛠️ Tech Stack (기술 스택)
 - **Language**: Python 3.9.13
-- **Libraries**: `requests`, `re`, `concurrent.futures` (Multi-threading)
+- **Libraries**: `requests`, `sys`, `re`, `concurrent.futures` (Multi-threading)
 - **Techniques**: Blind SQL Injection, IDOR, XSS, etc.
 
 ## 📂 Project Structure (저장소 구조)
@@ -19,6 +19,7 @@ Welcome to my Hacker101 CTF repository. This project contains various automation
 | :--- | :--- | :--- |
 | **Micro-CMS v2** | SQL Injection | [Link](./Micro-CMS-v2/micro-cms-v2-exploit.py) |
 | **Photo Gallery** | SQL Injection | [Link](./Photo%20Gallery/photo-gallery-exploit.py) |
+| **Ticketastic** | SQL Injection | [Link](./Ticketastic/ticketastic-exploit.py) |
 | (Coming Soon) | - | - |
 
 ## ⚠️ Disclaimer (주의 사항)
